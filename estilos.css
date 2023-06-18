@@ -1,0 +1,31 @@
+#container{
+    width:80%;
+    margin: 0 auto;
+
+}
+img{
+    width: 30%;
+    margin: 1.4%;
+    height: 350px;
+}
+#titulo{
+    margin-left: 25%;
+    font-size: 120%;
+    font-family: 'Herr Von Muellerhoff', cursive;
+    font-family: 'Rubik Microbe', cursive;
+    font-family: 'VT323', monospace;
+    font-family: 'Yuji Boku', serif;
+    text-transform: uppercase;
+    padding-bottom: 1px;
+    border-bottom:#9e0202 solid;
+    width: 50%;
+    
+    
+}
+body{
+    background-color: #EBF5FF;
+}
+a{
+    text-decoration: none;
+    color: #06d6a0;
+}
